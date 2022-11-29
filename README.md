@@ -1,2 +1,2 @@
 # IW2D.dotfiles
-.dotfiles for my Linux system
+.dotfiles for my Linux system.
